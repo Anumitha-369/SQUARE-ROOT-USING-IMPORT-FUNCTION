@@ -1,0 +1,7 @@
+# WRITE A PYTHON PROGRAM FOR SQUARE ROOT USING MATH FUNCTION 
+
+>>> import math
+>>> math.sqrt(256)
+
+OUTPUT:
+    16
